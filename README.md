@@ -20,6 +20,6 @@ The data was borrowed from Kaggle datasets: https://www.kaggle.com/datasets/maha
 
 ## Launching
 ```
-$ python3 praph.py
+$ python3 graph.py
 ```
 Dashboard you can find on the ``` http://127.0.0.1:8050/ ```

@@ -32,7 +32,8 @@ app.layout = html.Div([
                      {"label": "High", "value": 'high'},
                      {"label": "Low", "value": 'low'},
                      {"label": "Close", "value": 'close'},
-                     {"label": "MarketCap", "value": 'marketCap'}],
+                     {"label": "MarketCap", "value": 'marketCap'},
+                     {"label": "Volume", "value": 'volume'}],
                  multi=False,
                  value='marketCap',
                  style={'width': "40%"}
